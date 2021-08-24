@@ -1,0 +1,23 @@
+.btn
+{
+    background-color: chartreuse;
+    transition: .2s;
+
+    height: 40px;
+    padding: 0 10px;
+
+    border-radius: 5px;
+    width: 10rem;
+    color: #444;
+
+    font-weight: bold;
+    cursor: default;
+    border: none;
+    outline: none;
+}
+
+.btn:hover
+{
+    background-color: green;
+    color: #fff;
+}
